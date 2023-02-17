@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Validator {
+    /* @doni kadjo mathas   */
     /*
         In this exercise, you will understand how we can generate a strong password having
         - at least two lowercase characters,
